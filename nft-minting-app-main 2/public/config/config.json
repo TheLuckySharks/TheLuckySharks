@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdBCaFBE6Bf10D787BBD01aB1C5983113210d7890",
+  "SCAN_LINK": "https://polygonscan.com/address/0xdbcafbe6bf10d787bbd01ab1c5983113210d7890",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Lucky Sharks",
+  "SYMBOL": "TLSNFT",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-lucky-sharks",
+  "SHOW_BACKGROUND": true
+}
